@@ -1,8 +1,8 @@
 {
   "name": "timestamp-microservice",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Implementation of https://www.freecodecamp.com/challenges/timestamp-microservice",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
